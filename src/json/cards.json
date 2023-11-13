@@ -1,7 +1,15 @@
 {
-    "ace": [
-        {"hearts": "ace of hearts"},
-        {"clubs": "ace of clubs"}
+    "Cards": [
+        {"name": "10 of Spades", "value": 10},
+        {"name": "9 of Spades", "value": 9},
+        {"name": "8 of Spades", "value": 8},
+        {"name": "7 of Spades", "value": 7},
+        {"name": "6 of Spades", "value": 6},
+        {"name": "5 of Spades", "value": 5},
+        {"name": "4 of Spades", "value": 4},
+        {"name": "3 of Spades", "value": 3},
+        {"name": "2 of Spades", "value": 2},
+        {"name": "ace of Spades", "value": 1, "value2": 11}
     ]
 
 }
